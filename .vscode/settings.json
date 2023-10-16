@@ -1,0 +1,6 @@
+{
+  "html.format.indentInnerHtml": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "html.format.enable": false,
+  "formatSelectionAsHtml.formatter": "prettier"
+}
